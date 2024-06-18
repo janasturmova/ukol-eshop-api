@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Sedák",
+        "description": "Úplně skvělý sedací úvazek pro každého horolezce",
+        "price": 1890,
+        "rating": 4,
+        "photo": "https://cdn.4camping.cz/files/photos/500/9/91cdf0dd-uvazek-ocun-twist-quattro-modra.webp"
+    },
+    {
+        "id": 2,
+        "name": "Lezečky",
+        "description": "Lezečky, se kterými vylezete jakoukoliv cestu.",
+        "price": 2600,
+        "rating": 5,
+        "photo": "https://cdn.4camping.cz/files/photos/500/4/4934cff8-lezecky-ocun-striker-qc-svetla-zelena-cerna-green-malachite.webp"
+    },
+    {
+        "id": 3,
+        "name": "Lano",
+        "description": "Lano, které se nikdy nepřetrhne.",
+        "price": 4200,
+        "rating": 3,
+        "photo": "https://cdn.4camping.cz/files/photos/1600/3/3bd956fa-lezecke-lano-singing-rock-score-10-1-mm-60-m-zelena.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jistící set",
+        "description": "S tímto jistícím setem nepotřebujete pojištění.",
+        "price": 2300,
+        "rating": 4,
+        "photo": "https://cdn.4camping.cz/files/photos/500/9/90139d25-jistici-set-ocun-belay-set-eagle-triple-hurry-seda-anthracite.webp"
+    },
+    {
+        "id": 5,
+        "name": "Helma",
+        "description": "S touto helmou boule nehrozí.",
+        "price": 1700,
+        "rating": 4,
+        "photo": "https://data.rockpoint.cz/data/tmp/3/1/221_3.jpg?1671185164_1"
+    }
+
+]
+
